@@ -1,0 +1,44 @@
+[
+    {
+        "input": "You are a helpful assistant solving Tower of Hanoi puzzles through multiple turns of interaction.\n\nRULES:\n- There are three pegs (0, 1, 2) and N disks of different sizes\n- Only one disk can be moved at a time\n- Only the top disk from any peg can be moved\n- A larger disk may never be placed on top of a smaller disk\n- The goal is to move all disks from peg 0 to peg 2\n\nINTERACTION FORMAT:\n- You will receive the current puzzle state\n- Use the submit_moves tool to submit a list of moves to the puzzle.\n- Submit a list of moves in the format: [[disk_id, from_peg, to_peg], ...]\n- If any of your submitted moves is invalid, you will receive an error message and the puzzle state will roll back - none of the submitted moves will have been applied.",
+        "metadata": {
+            "n_disks": 3,
+            "batch_size": 25
+        }
+    },
+    {
+        "input": "You are a helpful assistant solving Tower of Hanoi puzzles through multiple turns of interaction.\n\nRULES:\n- There are three pegs (0, 1, 2) and N disks of different sizes\n- Only one disk can be moved at a time\n- Only the top disk from any peg can be moved\n- A larger disk may never be placed on top of a smaller disk\n- The goal is to move all disks from peg 0 to peg 2\n\nINTERACTION FORMAT:\n- You will receive the current puzzle state\n- Use the submit_moves tool to submit a list of moves to the puzzle.\n- Submit a list of moves in the format: [[disk_id, from_peg, to_peg], ...]\n- If any of your submitted moves is invalid, you will receive an error message and the puzzle state will roll back - none of the submitted moves will have been applied.",
+        "metadata": {
+            "n_disks": 4,
+            "batch_size": 25
+        }
+    },
+    {
+        "input": "You are a helpful assistant solving Tower of Hanoi puzzles through multiple turns of interaction.\n\nRULES:\n- There are three pegs (0, 1, 2) and N disks of different sizes\n- Only one disk can be moved at a time\n- Only the top disk from any peg can be moved\n- A larger disk may never be placed on top of a smaller disk\n- The goal is to move all disks from peg 0 to peg 2\n\nINTERACTION FORMAT:\n- You will receive the current puzzle state\n- Use the submit_moves tool to submit a list of moves to the puzzle.\n- Submit a list of moves in the format: [[disk_id, from_peg, to_peg], ...]\n- If any of your submitted moves is invalid, you will receive an error message and the puzzle state will roll back - none of the submitted moves will have been applied.",
+        "metadata": {
+            "n_disks": 5,
+            "batch_size": 25
+        }
+    },
+    {
+        "input": "You are a helpful assistant solving Tower of Hanoi puzzles through multiple turns of interaction.\n\nRULES:\n- There are three pegs (0, 1, 2) and N disks of different sizes\n- Only one disk can be moved at a time\n- Only the top disk from any peg can be moved\n- A larger disk may never be placed on top of a smaller disk\n- The goal is to move all disks from peg 0 to peg 2\n\nINTERACTION FORMAT:\n- You will receive the current puzzle state\n- Use the submit_moves tool to submit a list of moves to the puzzle.\n- Submit a list of moves in the format: [[disk_id, from_peg, to_peg], ...]\n- If any of your submitted moves is invalid, you will receive an error message and the puzzle state will roll back - none of the submitted moves will have been applied.",
+        "metadata": {
+            "n_disks": 6,
+            "batch_size": 25
+        }
+    },
+    {
+        "input": "You are a helpful assistant solving Tower of Hanoi puzzles through multiple turns of interaction.\n\nRULES:\n- There are three pegs (0, 1, 2) and N disks of different sizes\n- Only one disk can be moved at a time\n- Only the top disk from any peg can be moved\n- A larger disk may never be placed on top of a smaller disk\n- The goal is to move all disks from peg 0 to peg 2\n\nINTERACTION FORMAT:\n- You will receive the current puzzle state\n- Use the submit_moves tool to submit a list of moves to the puzzle.\n- Submit a list of moves in the format: [[disk_id, from_peg, to_peg], ...]\n- If any of your submitted moves is invalid, you will receive an error message and the puzzle state will roll back - none of the submitted moves will have been applied.",
+        "metadata": {
+            "n_disks": 7,
+            "batch_size": 25
+        }
+    },
+    {
+        "input": "You are a helpful assistant solving Tower of Hanoi puzzles through multiple turns of interaction.\n\nRULES:\n- There are three pegs (0, 1, 2) and N disks of different sizes\n- Only one disk can be moved at a time\n- Only the top disk from any peg can be moved\n- A larger disk may never be placed on top of a smaller disk\n- The goal is to move all disks from peg 0 to peg 2\n\nINTERACTION FORMAT:\n- You will receive the current puzzle state\n- Use the submit_moves tool to submit a list of moves to the puzzle.\n- Submit a list of moves in the format: [[disk_id, from_peg, to_peg], ...]\n- If any of your submitted moves is invalid, you will receive an error message and the puzzle state will roll back - none of the submitted moves will have been applied.",
+        "metadata": {
+            "n_disks": 8,
+            "batch_size": 25
+        }
+    }
+]
